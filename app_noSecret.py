@@ -9,7 +9,7 @@ app = Flask(__name__)
 @app.route("/")
 def hello_world():
     print("Test1",file=sys.stderr)
-    return "<p>Hello, World!</p>"
+    return render_template("dashboard.html")
 
 
 @app.route("/_handle_ajax/", methods=['POST'])
