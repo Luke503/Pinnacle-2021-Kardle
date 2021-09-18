@@ -1,3 +1,11 @@
+.nav-link {
+  font-family: Abel;
+}
+
+.dropdown-item {
+  font-family: Abel;
+}
+
 .highlight-clean {
     color: #313437;
     background-color: #fff;
