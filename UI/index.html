@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Kardle.</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abel&amp;display=swap">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome5-overrides.min.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body style="background: #fff9f1;">
+    <nav class="navbar navbar-light navbar-expand-lg shadow-sm" id="mainNav" style="background: #211f1c;">
+        <div class="container"><a href="index.html"><i class="fa fa-credit-card-alt" style="color: rgb(255,255,255);"></i></a><button data-bs-toggle="collapse" data-bs-target="#navbarResponsive" class="navbar-toggler" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation" style="border-color: rgba(0,0,0,0);"><i class="fa fa-bars" style="color: rgb(136, 136, 136);"></i></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item" style="padding-right: 10px;"><a class="nav-link" href="index.html" style="color: rgb(255,255,255);">Home</a></li>
+                    <li class="nav-item" style="padding-right: 10px;"><a class="nav-link" href="about.html" style="color: rgb(255,255,255);">How it works?</a></li>
+                    <li class="nav-item dropdown no-arrow">
+                        <div class="nav-item dropdown no-arrow">
+                            <a class="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown" href="#" style="color: rgb(255,255,255);">
+                            <i class="icon-user" style="padding: 8px;padding-right: 8px;color: rgb(255,255,255);"></i></a>
+                            <div class="dropdown-menu shadow dropdown-menu-end animated--grow-in"><a class="dropdown-item" href="/dashboard.html"><i class="icon-speedometer fa-sm fa-fw me-2 text-gray-400"></i>Dashboard</a>
+                                <div class="dropdown-divider"></div><a class="dropdown-item" href="#"><i class="icon-logout fa-sm fa-fw me-2 text-gray-400"></i>&nbsp;Logout</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-lg-6 offset-lg-0 offset-xl-1">
+                    <section class="highlight-clean" style="background: rgba(255,255,255,0);height: 311px;margin-top: 63px;">
+                        <div class="container" id="titlebox" style="margin-top: -30px;">
+                            <div class="intro">
+                                <h2 class="text-center shadow" style="color: #211f1c;font-size: 120px;margin-bottom: 0px;width: 474px;height: 159px;font-family: serif;">Kardle.</h2>
+                                <p class="text-center" style="font-size: 20px;width: 481px;border-color: rgb(0,0,0);color: #211f1c;padding-top: 20px;font-family: Abel, sans-serif;">A fast and secure way to borrow a credit card.</p>
+                            </div>
+                            <div class="buttons"><a class="btn btn-primary" role="button" href="#howitworks" style="background: #211f1c;margin-top: 0px;padding-top: 10px;padding-bottom: 10px;">Learn More</a></div>
+                            <div id="container"></div>
+                        </div>
+                    </section>
+                </div>
+                <div class="col-md-3 col-lg-3 offset-md-3 offset-lg-1 offset-xl-0"><img id="successimg" src="assets/img/success.svg" style="width: 456.203px;margin-top: 85px;"></div>
+            </div>
+        </div>
+        <div class="d-lg-flex d-xl-flex d-xxl-flex justify-content-lg-center justify-content-xl-center justify-content-xxl-center" id="parallax"><img id="hands" src="assets/img/hands.png" style="width: 800px;"></div>
+    </section>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script async
+        src="https://pay.google.com/gp/p/js/pay.js"
+        onload="onGooglePayLoaded()"></script>
+    <script>src="pay.js"</script>
+</body>
+
+</html>
