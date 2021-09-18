@@ -48,3 +48,225 @@
 127.0.0.1 - - [18/Sep/2021 03:07:35] "GET / HTTP/1.1" 200 -
  * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
  * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 09:48:05] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:48:09] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:50:18] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:50:19] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:50:19] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:50:19] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:50:20] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:50:21] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:50] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:51] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:51] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:51] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:52] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:52] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:52] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:52] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:53] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:53] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:53] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:53] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:53] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:54] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:54] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:54] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:55] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:55] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:55] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:56] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:56] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:56] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:57] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 09:54:59] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 10:01:46] "POST /_handle_ajax/ HTTP/1.1" 500 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 10:04:26] "POST /_handle_ajax/ HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 10:04:26] "POST /_handle_ajax/ HTTP/1.1" 500 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 10:08:18] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 10:09:25] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 10:31:20] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 12:01:48] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [18/Sep/2021 12:01:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [18/Sep/2021 12:02:00] "[35m[1mPOST /_handle_ajax/ HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 12:03:39] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 12:07:17] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\test.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 12:16:10] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 12:27:30] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 12:33:06] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 12:35:27] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 12:39:47] "[35m[1mPOST /_handle_ajax/ HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\test.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 12:43:39] "POST /_handle_ajax/ HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\test.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\test.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 883-383-013
+ * Running on http://127.0.0.1:12345/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
