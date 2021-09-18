@@ -2,9 +2,11 @@
     "name": "Kardle Extension",
     "version": "0.1.0",
     "manifest_version": 2,
-    "icons": {
+    "icons": {  "16": "assets/img/Kardle.png",
+                "48": "assets/img/Kardle.png",
+                "128": "assets/img/Kardle.png" },
         
-    },
+        
     "content_scripts":[
         {
             "matches":["<all_urls>"],
