@@ -14,7 +14,7 @@ transaction = (
         base_fee=base_fee,
     )
     .add_text_memo("money")
-    .append_payment_op(dv_address, "10.25", "XLM")
+    .append_payment_op(dv_address, "10.0", "XLM")
     .build()
 )
 transaction.sign(anj_keypair)
