@@ -9,7 +9,7 @@ anj_account = server.load_account(anj_keypair.public_key)
 base_fee = server.fetch_base_fee()
 transaction = (
     TransactionBuilder(
-        source_account=alice_account,
+        source_account=anj_account,
         network_passphrase=Network.TESTNET_NETWORK_PASSPHRASE,
         base_fee=base_fee,
     )
