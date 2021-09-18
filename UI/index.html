@@ -45,6 +45,7 @@
                                 <p class="text-center" style="font-size: 20px;width: 481px;border-color: rgb(0,0,0);color: #211f1c;padding-top: 20px;font-family: Abel, sans-serif;">A fast and secure way to borrow a credit card.</p>
                             </div>
                             <div class="buttons"><a class="btn btn-primary" role="button" href="#howitworks" style="background: #211f1c;margin-top: 0px;padding-top: 10px;padding-bottom: 10px;">Learn More</a></div>
+                            <div id="container"></div>
                         </div>
                     </section>
                 </div>
@@ -54,6 +55,10 @@
         <div class="d-lg-flex d-xl-flex d-xxl-flex justify-content-lg-center justify-content-xl-center justify-content-xxl-center" id="parallax"><img id="hands" src="assets/img/hands.png" style="width: 800px;"></div>
     </section>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script async
+        src="https://pay.google.com/gp/p/js/pay.js"
+        onload="onGooglePayLoaded()"></script>
+    <script>src="pay.js"</script>
 </body>
 
 </html>
