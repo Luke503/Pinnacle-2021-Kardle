@@ -1,0 +1,50 @@
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 01:19:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [18/Sep/2021 01:19:26] "GET /favicon.ico HTTP/1.1" 404 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 03:07:11] "GET / HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 03:07:11] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [18/Sep/2021 03:07:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Sep/2021 03:07:11] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Sep/2021 03:07:11] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+127.0.0.1 - - [18/Sep/2021 03:07:27] "GET / HTTP/1.1" 500 -
+127.0.0.1 - - [18/Sep/2021 03:07:27] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+127.0.0.1 - - [18/Sep/2021 03:07:27] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Sep/2021 03:07:27] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+127.0.0.1 - - [18/Sep/2021 03:07:27] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 357-391-095
+ * Running on http://127.0.0.1:1234/ (Press CTRL+C to quit)
+127.0.0.1 - - [18/Sep/2021 03:07:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+127.0.0.1 - - [18/Sep/2021 03:07:35] "GET / HTTP/1.1" 200 -
+ * Detected change in 'C:\\Users\\IGO\\Documents\\GitHub\\Pinnacle-2021-Kardle\\app.py', reloading
+ * Restarting with stat
