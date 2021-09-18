@@ -1,13 +1,29 @@
-<form>
+<head>
+    <meta charset="utf-8">
+    <title>Kardle.</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abel&amp;display=swap">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body style="width: 270px;height: 460px;background: #fff9f1;">
+    <section class="login-dark" style="width: 300px;height: 483px;">
+        <form method="post" style="background: #fff9f1;width: 270px;"><div class="illustration"><img src="assets/img/Kardle.png" style="width: 185px;"></div>
+            <div class="mb-3"><span class="d-lg-flex justify-content-lg-center" style="font-size: 13px;font-family: Abel, sans-serif;">How much money are you requesting?</span></div>
+            <div class="mb-3"><input class="form-control" type="text" id="moneyamt" name="moneyamt" inputmode="numeric" placeholder="Enter Amount" style="text-align: center;font-family: Abel, sans-serif;"></div>
+            <div class="mb-3" style="font-family: Abel, sans-serif;"><button class="btn btn-primary d-block w-100" type="submit" style="font-family: Abel, sans-serif;background: rgb(15, 40, 73);">Submit</button></div>
+        </form>
+    </section>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="jquery.js"></script>
+    <script src="ajax-call.js"></script>
+</body>
+
+<!-- <form>
     <label for="moneyamttext">How much money (USD) are you requesting?</label><br>
     <input type="text" id="moneyamt" name="moneyamt"><br>
     <button id="submitbutton" type='button'>Submit</button> 
-</form>
-
-<script src="jquery.js"></script>
-<script src="ajax-call.js"></script>
-
-
+</form> -->
 
 <!-- https://www.w3schools.com/html/tryit.asp?filename=tryhtml_form_text -->
 <!-- https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax_ajax -->
