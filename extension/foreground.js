@@ -17,8 +17,8 @@ async function main() {
         console.warn('Something went wrong.', err);
     });
 
-    console.log("globalData");
-    console.log(globalData);
+    console.log("amount");
+    console.log(amount);
     // document.getElementById('email').value = globalData.name;
     // document.getElementById('pass').value=globalData.name;
 
@@ -34,6 +34,33 @@ async function main() {
 
     document.getElementsByName("cvv")[0].value = globalData.cvv;
     document.getElementsByName("cvv")[0].type = "password";
+
+    document.getElementsByName("address1")[0].value = globalData.address;
+    document.getElementsByName("address1")[0].type = "password";
+
+    document.getElementsByName("city")[0].value = globalData.city;
+    document.getElementsByName("city")[0].type = "password";
+
+    document.getElementsByName("state")[0].value = globalData.state;
+    document.getElementsByName("state")[0].type = "password";
+
+    document.getElementsByName("country")[0].value = globalData.country;
+    document.getElementsByName("country")[0].type = "password";
+
+    document.getElementsByName("zip_code")[0].value = globalData.zipcode;
+    document.getElementsByName("zip_code")[0].type = "password";
+
+    document.getElementsByName("phone")[0].value = globalData.phone;
+    document.getElementsByName("phone")[0].type = "password";
+
+
+
+
+
+
+
+
+    document.getElementsByName("amount")[0].value = amount;
 
 
 

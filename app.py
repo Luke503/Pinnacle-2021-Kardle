@@ -41,7 +41,7 @@ def _handle_ajax():
         return jsonify({'test': requestStellar(request.form['requestAmount'])})
 
     if request.method == "GET":
-        return jsonify({'name': "Anj", 'date':"11/25",'number':"12345678912", 'cvv':"123"})
+        return jsonify({'name': "Anj", 'date':"11/25",'number':"12345678912", 'cvv':"123", 'address':"512 W Anderson", 'city':"Dallas", 'country':"United States", 'zipcode':"78703", 'phone':"2145593423"})
 
 
 
