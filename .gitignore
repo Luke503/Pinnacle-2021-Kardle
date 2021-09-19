@@ -1,3 +1,5 @@
 .DS_Store # Mac system files
 .UI/assets/fonts
 .UI/assets/bootstrap
+__pycache__/app.cpython-37.pyc
+server.log
