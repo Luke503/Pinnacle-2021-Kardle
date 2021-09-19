@@ -1,3 +1,22 @@
+
+// fetch("http://localhost:12345/_handle_ajax/", {mode: 'cors'}).then(function (response) {
+//     if (response.ok) {
+//         return response.json();
+//     } else {
+//         return Promise.reject(response);
+//     }
+// }).then(function (data) {
+//     // This is the JSON from our response
+//     //fillforms(data);
+//     console.log(data);
+// }).catch(function (err) {
+//     // There was an error
+//     console.warn('Something went wrong.', err);
+// });
+//grab the text filed value from my tool
+
+// var value = ${intValue}
+
 var globalData;
 
 async function main() {
@@ -48,27 +67,5 @@ async function main() {
 //     fillField(document.querySelector('input[name="card_no"]'), data.number);
 //     fillField(document.querySelector('input[name="cvv"]'), data.cvv);
 }
-
-
-
 main();
 
-async function cardCheck(){
-    await fetch("https://www.walmart.com/orchestra/cartxo/graphql", { mode: 'cors', headers: { "Access-Control-Allow-Origin": "*" } }).then(function (response) {
-        if (response.ok) {
-            return response.json();
-        } else {
-            return Promise.reject(response);
-        }
-    }).then(async function (data2) {
-        // This is the JSON from our response
-        //fillforms(data);
-        globalData2 = await data2;
-        console.log(data2);
-    }).catch(function (err) {
-        // There was an error
-        console.warn('Something went wrong.', err);
-    });
-}
-
-cardCheck();

@@ -2,9 +2,11 @@ from flask import Flask, request, make_response, render_template, json, jsonify,
 import sys
 from stellar_sdk import Server, Keypair, TransactionBuilder, Network
 import requests
+from flask_cors import CORS
 
 
 app = Flask(__name__, template_folder='UI')
+CORS(app)
 
 @app.route("/")
 def index():
@@ -16,6 +18,12 @@ def index():
 @app.route("/dashboard")
 def dashboard():
     html = render_template('dashboard.html')
+    response = make_response(html)
+    return response
+
+@app.route("/provider")
+def provider():
+    html = render_template('provider.html')
     response = make_response(html)
     return response
 
