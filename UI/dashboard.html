@@ -94,8 +94,11 @@
     </div>
     <script src="{{ url_for('static', filename='bootstrap/js/bootstrap.min.js') }}"></script>
     <script>
-
-    var xmlHttp = new XMLHttpRequest();
+        
+        getBalance();
+        var t=setInterval(getBalance,1000);
+        function getBalance(){
+        var xmlHttp = new XMLHttpRequest();
         
         var theUrl = "https://horizon-testnet.stellar.org/accounts/GDXGB47R2CEX76B33VNCGUMEH6GI3WQN3VOTFIBEDEVIM5PFN6JKODSS";
         xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
@@ -117,7 +120,7 @@
         console.log(exchangeRate)
 
         document.getElementById("accountBalance").innerHTML = balance;
-
+        }
 
     </script>
     <div class="container">
